@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: mono;
+    src: url(../font/Roboto_Mono/RobotoMono-VariableFont_wght.ttf);
+}
+
+.mono {
+    font-family: mono;
+}
+
+.about {
+
+    margin-top: 30vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.photo {
+}
+
+.img {
+    box-shadow: 4vw 3vh #2200ffa5;
+    width: 30%;
+    background-color: 
+}
+
+
+.footer {
+
+    padding-top: 20vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.text {
+    font-size: 0.8rem;
+
+}
+
+ .uber {
+    color: #2200ffa5;
+    padding: 10vh 5vw;
+    font-size: 2rem;
+}
+
